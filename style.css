@@ -1,0 +1,171 @@
+.header {
+
+}
+.primary{
+    background-color: aqua;
+    width: full;
+    height: 3rem;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+}
+.txt1{
+    width: 33%;
+}
+.sbtn{
+    width: 33%;
+}
+.btn2{
+    color: #068f8f;
+}
+.btn{
+    margin-top: 3rem;
+    margin-left: 3rem;
+    margin-right: 4rem;
+    width: 8rem;
+    height: 2rem;
+    padding: 0.8rem;
+    color: white;
+    
+}
+
+.secondary{
+    background-color: rgb(245, 244, 243);
+    width: full;
+    height: 7rem;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+}
+
+.hero1{
+    width: 7rem;
+    height: 5rem;
+    margin-left: 5rem;
+    margin-top: 1rem;
+
+}
+
+.nav{
+    display: inline;
+
+}
+
+.nav li {
+    display: inline-block;
+    margin-top: 3rem;
+    padding: 10px;
+    margin-left: 2.5rem;
+  }
+
+.hero{
+    width: 1345px;
+    height: 30rem;
+}
+
+.herotxt{
+    float: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.volunteers{
+    align-items: center;
+    height: 30rem;
+    padding: 5rem;
+    display: flex;
+
+    
+}
+
+.vol{
+    height: 20rem;
+    display: inline;
+    align-items: center;
+    margin: 2.3rem;
+    
+    
+
+}
+
+.wps{
+    width: 80%;
+    height: 30rem;
+    align-items: center;
+    margin: 8rem;
+}
+.img-wps{
+    border-radius: 50%;
+    width: 35%;
+
+}
+.wpsi{
+    position: relative;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.hrl{
+    width: 50%;
+}
+
+.footer{
+    width: 1340px;
+    background-color: hsl(0, 8%, 32%);
+    height: 20rem;
+    
+    display: flex;
+    margin: 0px;
+}
+.f1{
+    display: inline;
+    display: table-column;
+    color: white;
+    width: 25%;
+    margin: 10px;
+    padding: 10px;
+}
+
+.inpt{
+    margin: 10px;
+}
+
+.footer2{
+    width: 1340px;
+    height: 3rem;
+    background-color: #000000;
+    color: white;
+    display: flex;
+}
+
+.footer2 p{
+    width: 80%;
+}
+
+.ic1{
+    margin: 10px;
+    display: inline;
+    padding: 10px;
+}
+.wps{
+    position: relative;
+    text-align: center;
+    color: white;
+    height: 30rem;
+   
+    
+  }
+
+  .wpst{
+    float: center;
+    position: absolute;
+    top: 230%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+    padding: 20px;
+  }
+  
+ 
