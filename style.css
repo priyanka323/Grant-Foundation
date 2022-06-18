@@ -221,4 +221,5 @@
  .f2b{
     position: absolute;
     margin-left: 67rem;
+    justify-content: space-between;
  }
